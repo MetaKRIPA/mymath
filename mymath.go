@@ -31,3 +31,35 @@ func Max(x, y float64) float64 {
 func Min(x, y float64) float64 {
 	return math.Min(x, y)
 }
+
+func Abs(x float64) float64 {
+	return math.Abs(x)
+}
+
+func Acos(x float64) float64 {
+	return math.Acos(x)
+}
+
+func Acosh(x float64) float64 {
+	return math.Acosh(x)
+}
+
+func Asin(x float64) float64 {
+	return math.Asin(x)
+}
+
+func Asinh(x float64) float64 {
+	return math.Asinh(x)
+}
+
+func Atan(x float64) float64 {
+	return math.Atan(x)
+}
+
+func Atanh(x float64) float64 {
+	return math.Atanh(x)
+}
+
+func Cbrt(x float64) float64 {
+	return math.Cbrt(x)
+}
